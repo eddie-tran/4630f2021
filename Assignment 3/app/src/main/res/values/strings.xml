@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <string name="select">Select Item</string>
+    <string name="back">Back</string>
+    <string name="the_weather">The Weather</string>
+    <string name="facts_about_me">Facts About Me</string>
+    <string name="investment_portfolio">Investment Portfolio</string>
+    <string name="my_resume">My Resume</string>
+    <string name="more_facts_about_me">More Facts About Me</string>
+    <string name="other">Other</string>
+    <string name="my_birthplace">My Birthplace / Where I live now</string>
+    <string name="where_i_want_to_live">Where I want to live</string>
+    <string name="my_favorite_food">My favorite food</string>
+    <string name="banh_xeo">Banh Xeo</string>
+    <string name="lowell_massachusetts">Lowell - Massachusetts</string>
+    <string name="los_angeles_california">Los Angeles - California</string>
+    <string name="cryptocurrency">Cryptocurrency</string>
+    <string name="nfts">NFTs</string>
+    <string name="animal_society">Animal Society</string>
+    <string name="resume">My Resume</string>
+</resources>
