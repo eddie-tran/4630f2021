@@ -62,7 +62,7 @@
 * Link to App: https://expo.dev/@eddietran1999/housebuddy </br>
 
 #### Source Code
-* FINAL SOURCE CODE: https://github.com/tayloryoeuth/4630f2021/tree/main/Course%20Project/HouseBuddyReactFINAL </br>
+* FINAL SOURCE CODE: https://github.com/eddie-tran/4630f2021/tree/main/Course%20Project/HouseBuddyFinal </br>
 * Project’s stages of HouseBuddy Code: https://github.com/eddie-tran/4630f2021/tree/main/Course%20Project </br>
 
 #### Database
