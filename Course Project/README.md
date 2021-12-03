@@ -64,7 +64,7 @@
 
 #### Source Code
 * FINAL SOURCE CODE: https://github.com/eddie-tran/4630f2021/tree/main/Course%20Project/HouseBuddyFinal </br>
-* Project’s stages of HouseBuddy Code: https://github.com/tayloryoeuth/4630f2021/tree/main/Course%20Project </br>
+* Project’s stages of HouseBuddy Code: https://github.com/eddie-tran/4630f2021/tree/main/Course%20Project </br>
 
 #### Database
 * Firebase: https://firebase.google.com/ </br>
