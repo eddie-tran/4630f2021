@@ -60,6 +60,7 @@
 * In the Browse tab, we planned on having a user browser to be used within the app to make shopping easier, but we will plan on doing it in the future. </br>
 * In the Profile tab, you should see the email you registered with in Step 1. You are also able to logout, and resign back in.  </br>
 * In the Settings tab, this would have been where we would have a contact form if there were any issues within the application. However we did not have enough time to implement this, but plan on doing so in the future. </br>
+* Link to App: https://expo.dev/@eddietran1999/housebuddy </br>
 
 #### Source Code
 * FINAL SOURCE CODE: https://github.com/tayloryoeuth/4630f2021/tree/main/Course%20Project/HouseBuddyReactFINAL </br>
